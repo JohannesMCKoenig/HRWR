@@ -40,8 +40,7 @@ Overall, the code can be understood in the following way:
 Table 1: 
 		~\estimations\estimations\estimations.do Line 76
 
-Table 2 + 3: 
-		
+Table 2 + 3: 		
   		~\boot\main\Run.nb
 
 Table 4: 
@@ -54,19 +53,14 @@ Table 5:
 Table 6:
 		~\modelbased_calculations\DecompOfEarningsGrowthVarAndRisk.nb
 
-
-Table 7: 
-		
+Table 7: 		
   		~\boot\altsamps\Run.nb
 
-Table 8: 
-		
+Table 8: 		
   		~\boot\altmods\Run.nb
 
-Table 9: 
-		
+Table 9: 		
   		~\modelbased_calculations\EffectShockLifetimeEarningsAndConsumption.do
-
 
 Table A1:
 		 ~\estimations\estimations\estimations.do  Line 186
